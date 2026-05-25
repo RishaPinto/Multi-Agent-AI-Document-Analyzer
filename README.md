@@ -35,8 +35,7 @@ Multi-Agent-AI-System/
 ├── coordinator.py
 ├── agents.py
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
